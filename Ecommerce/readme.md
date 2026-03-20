@@ -3,6 +3,12 @@
 ## 📊 Project Overview
 This project provides a comprehensive analysis of sales performance and customer behavior across major online delivery platforms (Blinkit, JioMart, and Swiggy Instamart). The dashboard visualizes key metrics to help identify peak revenue seasons, platform popularity, and product quality satisfaction.
 
+
+
+## DashBoard
+---
+![Ecommerce Dashboard](Ecommerce_Dashboard.png)
+
 ## 🔑 Key Insights
 *   **Customer Sentiment:** Over 55% of customer feedback is positive, indicating high overall satisfaction.
 *   **Top Platform:** **Swiggy Instamart** leads in total orders and is the highest ordering platform according to the trend analysis.
